@@ -28,4 +28,9 @@ public class GeneratorTest {
         MyBatisGenerator generator=new MyBatisGenerator(configuration,callback,warnings);
         generator.generate(null);
     }
+
+    @Test
+    public void t2(){
+
+    }
 }

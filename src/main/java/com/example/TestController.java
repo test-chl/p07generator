@@ -6,4 +6,8 @@ package com.example;
  * @date 2019/12/18 10:41
  */
 public class TestController {
+
+    public void t1(){
+
+    }
 }
